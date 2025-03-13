@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../8.3 Media Query"
+	},
+	{
+		"path": "../8.4 Web Design Agency Project"
+	},
+	{
+		"path": "../8.1 CSS Float"
+	},
+	{
+		"path": "../8.0 CSS Display"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "8.1 CSS Float"
+  }
+}
